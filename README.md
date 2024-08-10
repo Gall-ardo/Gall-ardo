@@ -3,9 +3,9 @@
 <div align="center">
   🌐 Connect with Me:  
   <br>
-  - **Email:** [arda.ozongun@ug.bilkent.edu.tr](mailto:arda.ozongun@ug.bilkent.edu.tr)  
+   **Email:** [arda.ozongun@ug.bilkent.edu.tr](mailto:arda.ozongun@ug.bilkent.edu.tr)  
   <br>
-  - **LinkedIn:** [Halil Arda Özongun](https://www.linkedin.com/in/halil-arda-özongun-74b590209/)
+   **LinkedIn:** [Halil Arda Özongun](https://www.linkedin.com/in/halil-arda-özongun-74b590209/)
 </div>
 
 
