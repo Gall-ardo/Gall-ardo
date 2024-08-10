@@ -2,7 +2,8 @@
 
 <div align="center">
   🌐 Connect with Me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halil-arda-özongun-74b590209/)
+    - **Email:** arda.ozongun@ug.bilkent.edu.tr  
+  - **LinkedIn:** [Halil Arda Özongun](https://www.linkedin.com/in/halil-arda-özongun-74b590209/)
 </div>
 
 ### 💻 Tech Stack:
