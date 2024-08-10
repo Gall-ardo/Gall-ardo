@@ -1,22 +1,16 @@
-### Hi there 👋
-I am a student at Bilkent University in Cs department.
-🌱 I’m currently learning programming with Java
-🤔 I’m looking for help with my learning java journal.
-📫 How to reach me: You can find my Instagram and Linkedin account from my profile.
-🔭 My interest are Machine Learning, etc. I love learning about CS.
+<h3 align="center">Halil Arda Özongun</h3>
 
+<div align="center">
+  🌐 Connect with Me:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halil-arda-özongun-74b590209/)
+</div>
 
-<!--
-**Halil-Arda/Halil-Arda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FCC624?style=for-the-badge&logo=verilog&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... :\
--->
+### 📊 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
