@@ -15,11 +15,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FCC624?style=for-the-badge&logo=verilog&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-### 📊 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gall-ardo&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gall-ardo&color=blue)
 
